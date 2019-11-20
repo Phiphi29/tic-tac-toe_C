@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1493507528 source:c:\users\huber\desktop\jeu de morpion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Initialisation.h"
+	"Fonctions.h"
+
+1493507434 source:c:\users\huber\desktop\jeu de morpion\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Fonctions.h"
+
+1493507528 source:c:\users\huber\desktop\jeu de morpion\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Initialisation.h"
+
+1493507554 c:\users\huber\desktop\jeu de morpion\initialisation.h
+
+1493507554 c:\users\huber\desktop\jeu de morpion\fonctions.h
+
+1494788644 source:d:\travail\jeu de morpion\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Initialisation.h"
+
+1493507554 d:\travail\jeu de morpion\initialisation.h
+
+1493507434 source:d:\travail\jeu de morpion\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Fonctions.h"
+
+1493507554 d:\travail\jeu de morpion\fonctions.h
+
+1496815975 source:d:\travail\jeu de morpion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Initialisation.h"
+	"Fonctions.h"
+
